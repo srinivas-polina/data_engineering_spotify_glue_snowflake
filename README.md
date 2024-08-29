@@ -4,6 +4,7 @@ In this project, I created an ETL pipeline that efficiently extracts, transforms
 
 ![Architecture Diagram](Architecture_diagram.png)
 
+
 ## Project Overview
 
 The project involves setting up a data pipeline using a combination of AWS Lambda, AWS Glue, and Snowflake to automate the extraction, transformation, and loading (ETL) of data. 
