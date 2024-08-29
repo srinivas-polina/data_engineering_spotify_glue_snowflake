@@ -2,6 +2,8 @@
 
 In this project, I created an ETL pipeline that efficiently extracts, transforms, and loads data from the Spotify API using AWS services and Snowflake.
 
+![Architecture Diagram](Architecture_diagram.png)
+
 ## Project Overview
 
 The project involves setting up a data pipeline using a combination of AWS Lambda, AWS Glue, and Snowflake to automate the extraction, transformation, and loading (ETL) of data. 
